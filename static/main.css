@@ -1,0 +1,35 @@
+body {
+    background-image: url('../static/cupcakes-5116009_960_720.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+header {
+    text-align: center;
+    height:10px;
+    color: rosybrown;
+    font-size: 40px;
+    -webkit-text-stroke: 3px black;
+    margin: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#cupcakes{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 0px;
+    border: 2px solid black;
+    padding: 0px;
+
+}
+
+h4 {
+    padding: 0px;
+    margin: 0px;
+}

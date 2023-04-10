@@ -1,0 +1,6 @@
+size,name,price,flavor,frosting,sprinkles,filling
+regular,Fudge,1.99,Chocolate,Fudge,"['Chocolate']",Chocolate
+mini,Oreo,0.99,Chocolate,Cookies and Cream,['Oreo pieces'],
+large, Vanilla cupcake,2.99,Vanilla,Cream Cheese,[],
+regular,Greek Chocolate,1.99,Chocolate,Special Chocolate,[],Chocolate
+regular,Pumpkin,1.99,Pumpkin spice,Vanilla,[],
